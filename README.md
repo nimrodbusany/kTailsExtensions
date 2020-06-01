@@ -1,4 +1,4 @@
-# Synoptic Extensions Project 
+# k-Tails Extensions Project 
 This repository contains the code of the following projects:
 1. Log differnecing: 2kdiff, nkdiff (synopticdiff.* namespace)
 2. kTails: many parameters (synopticdynamic.* namespace)
